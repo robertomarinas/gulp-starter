@@ -1,0 +1,1 @@
+console.log("Javascript sample one.."),console.log("Javascript sample two..");
